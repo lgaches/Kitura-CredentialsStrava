@@ -1,6 +1,6 @@
 import XCTest
-@testable import Kitura_CredentialsStravaTests
+@testable import KituraCredentialsStravaTests
 
 XCTMain([
-     testCase(Kitura_CredentialsStravaTests.allTests),
+     testCase(KituraCredentialsStravaTests.allTests),
 ])

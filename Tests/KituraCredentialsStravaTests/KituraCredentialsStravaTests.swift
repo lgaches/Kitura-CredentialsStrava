@@ -1,7 +1,7 @@
 import XCTest
-@testable import Kitura_CredentialsStrava
+@testable import CredentialsStrava
 
-class Kitura_CredentialsStravaTests: XCTestCase {
+class KituraCredentialsStravaTests: XCTestCase {
     func testExample() {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
